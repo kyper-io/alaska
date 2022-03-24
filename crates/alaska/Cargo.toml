@@ -1,0 +1,12 @@
+[package]
+name = "alaska"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "A high-level stream-based functional API for developing event-driven reactive applications"
+homepage = "https://kyper.io/alaska"
+documentation = "https://docs.rs/alaska"
+repository = "https://github.com/kyper-io/alaska"
+readme = "../../README.md"
+
+[dependencies]
